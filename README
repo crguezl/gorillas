@@ -1,5 +1,5 @@
-Para los que recuerdan el QBasic de MSDOS, aquí tienen el juego
-gorillas.bas reescrito en Sinatra+CoffeeScript
+To those who remember the QBasic MSDOS game, here is the classic
+game gorillas.bas rewritten using Sinatra and CoffeeScript
 
 To run it:
          $ rvm use 1.9.3-p392
