@@ -1,0 +1,13 @@
+Para los que recuerdan el QBasic de MSDOS, aquí tienen el juego
+gorillas.bas reescrito en Sinatra+CoffeeScript
+
+To run it:
+         $ rvm use 1.9.3-p392
+         $ bundle update
+         $ bundle install
+         $ rackup
+
+and visit:
+         http://0.0.0.0:9292
+
+
